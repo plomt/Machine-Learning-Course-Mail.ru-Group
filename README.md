@@ -1,4 +1,4 @@
-# Machine-Learning-Course-Mail.ru-Group
+# Machine-Learning-Course-Mail.ru-Group 2021
 Курс по машинному обучению от Mail.ru Group при НИЯУ МИФИ
 
 **Темы курса:**
